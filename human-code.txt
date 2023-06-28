@@ -1,0 +1,37 @@
+PSEUDO-CODICE
+Ordinare una pizza
+
+- 1 - Apriamo il cartone;
+
+- 2 - SE/IF la pizza non è tagliata
+
+ 	 - 2.1 - Prendi il tagliapizza;
+
+ 	 - 2.2 - Taglia la pizza in fette uguali;
+
+- 3 - SE/IF la pizza è troppo calda
+
+	 - 3.1 - Soffiaci sopra OR  Aspetta 5 minuti;
+
+- 4 - SE/IF hai fame
+
+	- 4.1 - Prendi una fetta;
+
+	- 4.2 - Mangia una fetta;
+
+ 	- 4.3 - Torna al punto 4;
+
+- 5 - ALTRIMENTI/ELSE
+
+ 	- 5.1 - Prendi la pizza che mi rimane;
+
+ 	- 5.2 - Vai fino al frigorifero;
+
+ 	- 5.3 - Apri la porta del frigorifero;
+
+ 	- 5.4 - Metti la pizza che rimane in frigo;
+
+ 	- 5.5 - Chiudi il frigorifero;
+
+-END
+
